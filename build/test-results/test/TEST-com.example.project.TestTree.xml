@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.project.TestTree" tests="10" skipped="0" failures="0" errors="0" timestamp="٢٠٢٤-١١-٢١T٠٦:٢٠:٤٠" hostname="LAPTOP-657FUQM7" time="0.065">
+  <properties/>
+  <testcase name="testCountLeaves1()" classname="com.example.project.TestTree" time="0.022"/>
+  <testcase name="testCountLeaves2()" classname="com.example.project.TestTree" time="0.007"/>
+  <testcase name="testCountLeaves3()" classname="com.example.project.TestTree" time="0.002"/>
+  <testcase name="testCountLeaves4()" classname="com.example.project.TestTree" time="0.002"/>
+  <testcase name="testCountLeaves5()" classname="com.example.project.TestTree" time="0.001"/>
+  <testcase name="testCountLeaves6()" classname="com.example.project.TestTree" time="0.003"/>
+  <testcase name="testCountLeaves7()" classname="com.example.project.TestTree" time="0.001"/>
+  <testcase name="testCountNodesIn1()" classname="com.example.project.TestTree" time="0.004"/>
+  <testcase name="testCountNodesIn2()" classname="com.example.project.TestTree" time="0.003"/>
+  <testcase name="testCountNodesIn3()" classname="com.example.project.TestTree" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
